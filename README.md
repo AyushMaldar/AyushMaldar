@@ -1,5 +1,5 @@
 👋 Hi, I’m @AyushMaldar
-👀 I’m interested in 
+👀 I’m interested in Coding ,watching Anime
 🌱 I’m currently learning Computer Science at St.Xaviers College
 
 <!---
